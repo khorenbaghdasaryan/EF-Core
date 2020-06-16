@@ -1,0 +1,17 @@
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\khore\source\repos\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialCreate.resources
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.AddUrl.resources
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.AddUser.resources
+C:\Users\khore\source\repos\CodeFirst\obj\Debug\CodeFirst.Migrations.AddUser1.resources
